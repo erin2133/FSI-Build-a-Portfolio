@@ -1,8 +1,16 @@
+html {text-align: center;
+}
 body {
-background-color: lightblue;
-    color: #555;
+background-color: teal;
+    color: black;
 }
 h1 {
     color: navy;
     margin-left: 20px;
+  }
+  h3 {
+    border-style: double;
+    background-color: white;
+  }
+  li {text-align: center;
   }
